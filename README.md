@@ -6,7 +6,7 @@ Sobre mí:
 3. 🤔 Me interesan mucho los juegos
 4. ⚡ Me gusta el color amarillo
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,msyql,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,mysql,ps)](https://skillicons.dev)
 
 
 <!--
