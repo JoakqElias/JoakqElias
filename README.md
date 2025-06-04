@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hola! Soy Joaquin Villalva! 😝
+
+Sobre mí:
+1. 💬 Actualmente estudio Programacion en la E.E.S.T.N°1 de Monte grande
+2. 📫 Tengo 17 años
+3. 🤔 Me interesan mucho los juegos
+4. ⚡ Me gusta el color amarillo
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 <!--
 **JoakqElias/JoakqElias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
