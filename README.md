@@ -1,11 +1,32 @@
-## Hola! Soy Joaquin Villalva! 😝
+## 👋 ¡Hola! Soy Joaquín Villalva
 
-Sobre mí:
-1. 💬 Actualmente estudio Programacion en la E.E.S.T N°1 de Monte grande
-2. 👤 Tengo 18 años
-3. 📑 Tengo conocimientos en Herramientas de Diseño Gráfico y Microsoft Office (Word, Excel, PowerPoint).
-4. 💼 Encargado de Análisis de Sistemas en proyectos de desarrollo de software.
+💻 Estudiante de Programación en la E.E.S.T N°1 de Monte Grande  
+🎓 18 años  
 
+## 🚀 Sobre mí
+
+Soy un estudiante de programación con interés en el desarrollo de software y el análisis de sistemas.  
+Cuento con experiencia en proyectos académicos donde trabajé en el desarrollo web y en la documentación técnica completa de sistemas.
+
+💼 Me desempeñé como encargado de análisis de sistemas, realizando:
+- Modelado de sistemas mediante diagramas UML (casos de uso, clases, secuencia, actividad, despliegue)
+- Documentación de arquitectura, tecnologías y estructura del sistema
+- Planificación de proyectos con diagramas de Gantt
+- Elaboración de manuales de usuario y documentación técnica
+
+## 🧠 Conocimientos
+
+- Desarrollo web: HTML, CSS, JavaScript, PHP, React  
+- Programación: Java, C#  
+- Bases de datos: MySQL  
+- Modelado: UML, diagramas de sistemas  
+- Herramientas: Git, GitHub, VS Code, Visual Studio  
+- Diseño: Photoshop, Canva  
+- Ofimática: Microsoft Office (Word, Excel, PowerPoint)
+
+## 🎯 Objetivo
+
+Seguir desarrollándome como programador y analista de sistemas, adquiriendo experiencia en proyectos reales y aprendiendo nuevas tecnologías.
 ## 💻 Lenguajes
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,cs)](https://skillicons.dev)
 
