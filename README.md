@@ -26,7 +26,7 @@ Cuento con experiencia en proyectos académicos donde trabajé en el desarrollo 
 
 ## 🎯 Objetivo
 
-Seguir desarrollándome como programador y analista de sistemas, adquiriendo experiencia en proyectos reales y aprendiendo nuevas tecnologías.
+Seguir desarrollándome como analista de sistemas, adquiriendo experiencia en proyectos reales y aprendiendo nuevas tecnologías.
 ## 💻 Lenguajes
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,cs)](https://skillicons.dev)
 
