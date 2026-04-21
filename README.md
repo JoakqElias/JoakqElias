@@ -2,6 +2,7 @@
 
 💻 Estudiante de Programación en la E.E.S.T N°1 de Monte Grande  
 🎓 18 años  
+📩 joaquinlezcano67@gmail.com
 
 ## 🚀 Sobre mí
 
